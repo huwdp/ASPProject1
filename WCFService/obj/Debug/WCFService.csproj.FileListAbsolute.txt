@@ -1,0 +1,10 @@
+C:\Users\Huw\documents\visual studio 2013\Projects\Assignment1\WCFService\bin\Debug\WCFService.dll.config
+C:\Users\Huw\documents\visual studio 2013\Projects\Assignment1\WCFService\bin\Debug\WCFService.dll
+C:\Users\Huw\documents\visual studio 2013\Projects\Assignment1\WCFService\bin\Debug\WCFService.pdb
+C:\Users\Huw\documents\visual studio 2013\Projects\Assignment1\WCFService\bin\Debug\EntityFramework.dll
+C:\Users\Huw\documents\visual studio 2013\Projects\Assignment1\WCFService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huw\documents\visual studio 2013\Projects\Assignment1\WCFService\bin\Debug\EntityFramework.xml
+C:\Users\Huw\documents\visual studio 2013\Projects\Assignment1\WCFService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Huw\documents\visual studio 2013\Projects\Assignment1\WCFService\obj\Debug\WCFService.dll
+C:\Users\Huw\documents\visual studio 2013\Projects\Assignment1\WCFService\obj\Debug\WCFService.pdb
+C:\Users\Huw\documents\visual studio 2013\Projects\Assignment1\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
